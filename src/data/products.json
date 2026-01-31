@@ -1,141 +1,1801 @@
 [{
-  "id": "13842",
+  "product_id": "13842",
   "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
   "category": "Accessories",
   "department": "Women",
-  "brand": "MG",
-  "retail_price": "6.25"
+  "retail_price": "6.25",
+  "product_id_1": "13842",
+  "created_at": "2022-06-25 21:42:57.000000 UTC",
+  "sold_at": "2022-07-13 17:37:57.000000 UTC"
 }, {
-  "id": "13928",
+  "product_id": "13842",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "13842",
+  "created_at": "2021-04-04 13:43:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13842",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "13842",
+  "created_at": "2024-11-16 07:56:36.000000 UTC",
+  "sold_at": "2025-01-08 19:44:36.000000 UTC"
+}, {
+  "product_id": "13842",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "13842",
+  "created_at": "2022-12-08 09:12:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13842",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "13842",
+  "created_at": "2022-07-07 15:26:52.000000 UTC",
+  "sold_at": "2022-08-18 18:07:52.000000 UTC"
+}, {
+  "product_id": "13842",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "13842",
+  "created_at": "2020-02-13 06:57:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
   "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
   "category": "Accessories",
   "department": "Women",
-  "brand": "MG",
-  "retail_price": "5.9499998092651367"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2020-04-15 10:19:58.000000 UTC",
+  "sold_at": "2020-05-13 16:31:58.000000 UTC"
 }, {
-  "id": "14115",
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2021-05-28 07:58:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2026-01-21 13:38:20.000000 UTC",
+  "sold_at": "2026-01-24 09:35:20.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2023-11-15 08:55:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2025-05-24 00:58:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2023-01-19 14:56:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2026-01-05 06:14:04.000000 UTC",
+  "sold_at": "2026-01-21 16:03:04.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2024-04-24 14:22:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2025-05-19 11:26:37.000000 UTC",
+  "sold_at": "2025-07-14 13:25:37.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2023-11-16 03:55:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2023-06-10 01:20:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2023-12-19 07:54:31.000000 UTC",
+  "sold_at": "2024-01-01 19:41:31.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2023-10-24 04:30:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2021-01-31 16:32:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2025-01-09 06:16:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2025-11-16 10:10:34.000000 UTC",
+  "sold_at": "2025-12-27 06:18:34.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2020-12-06 02:20:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2022-11-12 16:54:33.000000 UTC",
+  "sold_at": "2022-12-11 04:55:33.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2020-11-28 09:15:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2023-09-19 04:27:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2025-08-24 07:57:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2024-01-06 02:20:47.000000 UTC",
+  "sold_at": "2024-03-04 11:45:47.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2020-02-15 13:39:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2025-11-28 17:12:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2020-03-08 15:31:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2022-06-03 05:21:39.000000 UTC",
+  "sold_at": "2022-06-20 00:02:39.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2023-07-08 10:33:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2024-10-31 09:50:02.000000 UTC",
+  "sold_at": "2024-11-30 00:25:02.000000 UTC"
+}, {
+  "product_id": "13928",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "13928",
+  "created_at": "2025-08-14 11:26:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14115",
   "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
   "category": "Accessories",
   "department": "Women",
-  "brand": "MG",
-  "retail_price": "10.989999771118164"
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2024-01-15 01:12:30.000000 UTC",
+  "sold_at": "2024-02-07 19:33:30.000000 UTC"
 }, {
-  "id": "14157",
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2021-07-23 12:49:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2021-10-27 12:29:29.000000 UTC",
+  "sold_at": "2021-10-30 02:42:29.000000 UTC"
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2023-06-09 03:44:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2025-12-31 19:30:01.858348 UTC",
+  "sold_at": "2026-02-01 23:17:01.858348 UTC"
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2021-05-31 03:28:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2025-12-30 13:30:33.000000 UTC",
+  "sold_at": "2026-01-22 05:35:33.000000 UTC"
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2021-03-11 07:48:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2025-02-19 14:57:41.000000 UTC",
+  "sold_at": "2025-04-20 03:18:41.000000 UTC"
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2025-09-02 11:44:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2023-12-12 04:18:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14115",
+  "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14115",
+  "created_at": "2021-10-05 03:18:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14157",
   "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
   "category": "Accessories",
   "department": "Women",
-  "brand": "MG",
-  "retail_price": "10.989999771118164"
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14157",
+  "created_at": "2024-02-25 21:08:43.000000 UTC",
+  "sold_at": "2024-03-15 18:50:43.000000 UTC"
 }, {
-  "id": "14273",
+  "product_id": "14157",
+  "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14157",
+  "created_at": "2025-03-05 16:40:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14157",
+  "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14157",
+  "created_at": "2023-03-16 18:52:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14157",
+  "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14157",
+  "created_at": "2023-02-02 15:20:39.000000 UTC",
+  "sold_at": "2023-03-05 06:01:39.000000 UTC"
+}, {
+  "product_id": "14157",
+  "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14157",
+  "created_at": "2025-08-10 01:36:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14157",
+  "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14157",
+  "created_at": "2019-04-07 10:56:33.000000 UTC",
+  "sold_at": "2019-04-29 00:19:33.000000 UTC"
+}, {
+  "product_id": "14157",
+  "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14157",
+  "created_at": "2022-01-18 08:10:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14157",
+  "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "10.989999771118164",
+  "product_id_1": "14157",
+  "created_at": "2024-07-12 00:10:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14273",
   "name": "Washed Canvas Ivy Cap - Black W11S64C",
   "category": "Accessories",
   "department": "Women",
-  "brand": "MG",
-  "retail_price": "15.989999771118164"
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2025-02-07 00:09:19.000000 UTC",
+  "sold_at": "2025-03-26 06:47:19.000000 UTC"
 }, {
-  "id": "15674",
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2021-12-10 00:27:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2025-05-13 18:11:36.000000 UTC",
+  "sold_at": "2025-06-02 08:52:36.000000 UTC"
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2023-12-31 17:31:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2022-04-26 18:40:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2021-03-31 11:37:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2025-03-30 12:28:21.000000 UTC",
+  "sold_at": "2025-04-24 01:24:21.000000 UTC"
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2020-10-20 17:04:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2026-01-01 10:09:20.000000 UTC",
+  "sold_at": "2026-01-08 06:28:20.000000 UTC"
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2022-07-18 13:11:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "14273",
+  "name": "Washed Canvas Ivy Cap - Black W11S64C",
+  "category": "Accessories",
+  "department": "Women",
+  "retail_price": "15.989999771118164",
+  "product_id_1": "14273",
+  "created_at": "2020-01-06 17:24:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15674",
   "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
   "category": "Plus",
   "department": "Women",
-  "brand": "MG",
-  "retail_price": "6.25"
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2023-12-29 11:04:33.000000 UTC",
+  "sold_at": "2024-02-05 16:04:33.000000 UTC"
 }, {
-  "id": "15816",
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2024-05-31 09:05:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2022-08-20 22:42:33.000000 UTC",
+  "sold_at": "2022-09-11 03:04:33.000000 UTC"
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2022-04-11 12:57:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2023-09-25 09:24:55.000000 UTC",
+  "sold_at": "2023-10-03 03:41:55.000000 UTC"
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2020-08-11 03:43:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2024-07-17 22:38:21.000000 UTC",
+  "sold_at": "2024-07-30 18:53:21.000000 UTC"
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2024-06-13 09:50:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2023-10-13 20:06:42.000000 UTC",
+  "sold_at": "2023-11-29 19:44:42.000000 UTC"
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2024-07-16 17:46:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2025-04-07 23:51:30.000000 UTC",
+  "sold_at": "2025-06-06 18:11:30.000000 UTC"
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2023-10-30 11:26:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15674",
+  "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "6.25",
+  "product_id_1": "15674",
+  "created_at": "2020-09-13 09:29:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
   "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
   "category": "Plus",
   "department": "Women",
-  "brand": "MG",
-  "retail_price": "5.9499998092651367"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2020-07-16 20:39:28.000000 UTC",
+  "sold_at": "2020-08-10 19:08:28.000000 UTC"
 }, {
-  "id": "12777",
-  "name": "Womens MW Tankini Boyshorts Swimsuit Swimwear Crisscross Back Multiple Prints S-xxl",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "MW",
-  "retail_price": "44.9900016784668"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2024-04-03 13:36:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "12810",
-  "name": "Mw Long Ruffle Tankini Bikini Swimsuit Bra Straps Multiple Prints",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "MW",
-  "retail_price": "44.9900016784668"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2021-05-28 12:45:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "12812",
-  "name": "Womens long tankini bikini swimsuit Marina West 2 piece multiple prints bra straps",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "MW",
-  "retail_price": "44.9900016784668"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2021-06-09 18:03:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "12853",
-  "name": "Womens MW Tankini Boyshorts Swimsuit Swimwear Fashion prints S-XXL",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "MW",
-  "retail_price": "44.9900016784668"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2025-12-25 19:24:54.433998 UTC",
+  "sold_at": "2026-01-28 15:50:54.433998 UTC"
 }, {
-  "id": "12900",
-  "name": "Womens One Piece/bikini Monokini Swimsuit w/ Fringe MW Multiple Prints and Solids",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "MW",
-  "retail_price": "39.9900016784668"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2024-12-19 11:01:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "13247",
-  "name": "Womens swimsuit MW Swimwear Set Halter w/ Boyshorts 2 piece bikini multiple prints",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "MW",
-  "retail_price": "44.9900016784668"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2025-07-26 11:31:10.000000 UTC",
+  "sold_at": "2025-09-12 15:15:10.000000 UTC"
 }, {
-  "id": "13477",
-  "name": "MW Women\u0027s Swimsuit Two Piece Black Tankini with Bikini Bottoms",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "MW",
-  "retail_price": "54.9900016784668"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2023-04-13 18:02:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "13574",
-  "name": "Womens MW Two Piece Tankini Boyshorts Swimsuit Brown \u0026 Turquoise Ethnic Print",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "MW",
-  "retail_price": "44.9900016784668"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2020-10-08 04:54:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "2848",
-  "name": "2XU Women\u0027s Compression Recovery Sock",
-  "category": "Active",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "2XU",
-  "retail_price": "44.950000762939446"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2020-10-27 13:42:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "3039",
-  "name": "2XU Women\u0027s Compression Race Sock",
-  "category": "Active",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "2XU",
-  "retail_price": "49.950000762939446"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2025-11-03 19:51:42.000000 UTC",
+  "sold_at": "2025-12-28 07:23:42.000000 UTC"
 }, {
-  "id": "9041",
-  "name": "2XU Women\u0027s Compression Race Sock",
-  "category": "Socks \u0026 Hosiery",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "2XU",
-  "retail_price": "49.950000762939446"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2021-11-27 10:50:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "13122",
-  "name": "2XU Women\u0027s Swimmers Compression Long Sleeve Top",
-  "category": "Swim",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "2XU",
-  "retail_price": "150.41000366210938"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2025-01-08 06:48:00.000000 UTC",
+  "sold_at": null
 }, {
-  "id": "3206",
-  "name": "AGB Women\u0027s Long Sleeve Striped Sweater Dress",
-  "category": "Dresses",
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
   "department": "Women",
-  "brand": "AGB",
-  "retail_price": "79.0"
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2023-01-30 11:38:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2022-02-19 06:38:55.000000 UTC",
+  "sold_at": "2022-02-25 22:09:55.000000 UTC"
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2022-02-01 13:08:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2022-03-23 08:22:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2019-11-04 05:46:04.000000 UTC",
+  "sold_at": "2019-11-05 13:53:04.000000 UTC"
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2022-08-26 04:55:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2021-06-02 17:31:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2025-10-05 04:58:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2024-08-26 08:47:20.000000 UTC",
+  "sold_at": "2024-09-21 22:07:20.000000 UTC"
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2022-11-17 17:07:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2020-11-12 14:28:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "15816",
+  "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+  "category": "Plus",
+  "department": "Women",
+  "retail_price": "5.9499998092651367",
+  "product_id_1": "15816",
+  "created_at": "2023-08-16 08:12:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2025-01-14 14:54:57.000000 UTC",
+  "sold_at": "2025-02-21 19:35:57.000000 UTC"
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2023-12-12 07:31:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2022-06-17 05:53:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2022-05-04 00:21:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2021-01-17 18:30:56.000000 UTC",
+  "sold_at": "2021-03-13 13:19:56.000000 UTC"
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2021-06-06 09:31:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2025-09-23 02:09:29.000000 UTC",
+  "sold_at": "2025-10-17 13:34:29.000000 UTC"
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2021-02-08 18:11:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2024-07-07 07:13:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2023-06-30 08:40:47.000000 UTC",
+  "sold_at": "2023-08-01 13:36:47.000000 UTC"
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2023-01-02 15:23:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2020-01-08 06:03:37.000000 UTC",
+  "sold_at": "2020-01-27 01:57:37.000000 UTC"
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2023-03-21 04:20:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2025-06-27 12:14:26.000000 UTC",
+  "sold_at": "2025-07-14 07:54:26.000000 UTC"
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2022-01-30 10:11:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2023-05-04 14:28:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2024-04-06 18:04:39.000000 UTC",
+  "sold_at": "2024-04-25 22:43:39.000000 UTC"
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2023-08-24 00:05:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2022-12-30 16:15:39.000000 UTC",
+  "sold_at": "2023-01-06 06:45:39.000000 UTC"
+}, {
+  "product_id": "28646",
+  "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "19.989999771118164",
+  "product_id_1": "28646",
+  "created_at": "2025-11-01 07:32:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2024-06-28 13:17:39.000000 UTC",
+  "sold_at": "2024-07-10 09:25:39.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2020-11-04 01:42:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2024-09-01 10:30:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2023-04-21 20:06:35.000000 UTC",
+  "sold_at": "2023-06-14 05:52:35.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2021-04-27 12:21:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-11-10 03:09:38.000000 UTC",
+  "sold_at": "2025-12-19 11:45:38.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2020-06-06 08:36:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2023-04-02 02:32:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2021-11-24 18:46:46.000000 UTC",
+  "sold_at": "2021-12-23 01:25:46.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-08-14 00:49:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-11-21 17:37:42.000000 UTC",
+  "sold_at": "2025-12-18 11:54:42.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2023-08-08 08:48:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2022-04-10 00:35:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2020-11-10 17:37:59.000000 UTC",
+  "sold_at": "2020-11-24 23:03:59.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2021-11-22 17:18:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-07-28 20:14:32.000000 UTC",
+  "sold_at": "2025-09-19 14:39:32.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-04-12 18:04:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-11-29 11:51:30.000000 UTC",
+  "sold_at": "2026-01-11 19:36:30.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-12-31 06:17:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-04-26 18:07:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2023-08-16 04:52:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-01-31 23:12:40.000000 UTC",
+  "sold_at": "2025-02-22 13:38:40.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2024-05-21 08:53:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-08-01 10:44:43.000000 UTC",
+  "sold_at": "2025-08-04 12:40:43.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2025-12-31 09:51:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2023-10-08 16:45:20.000000 UTC",
+  "sold_at": "2023-11-17 16:51:20.000000 UTC"
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2021-07-23 12:07:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2021-04-30 08:35:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28670",
+  "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.179999828338623",
+  "product_id_1": "28670",
+  "created_at": "2021-07-21 14:19:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2024-10-16 03:48:45.000000 UTC",
+  "sold_at": "2024-11-25 18:07:45.000000 UTC"
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2021-08-15 09:29:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2025-12-29 07:22:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2022-05-21 14:37:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2025-04-12 23:38:56.000000 UTC",
+  "sold_at": "2025-05-23 23:35:56.000000 UTC"
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2025-01-19 11:42:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2023-06-02 07:33:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2023-06-30 08:48:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2025-06-19 22:48:58.000000 UTC",
+  "sold_at": "2025-07-11 19:55:58.000000 UTC"
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2023-07-05 14:01:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2020-09-18 05:01:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2023-01-31 15:53:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2025-09-23 20:07:55.000000 UTC",
+  "sold_at": "2025-11-10 05:39:55.000000 UTC"
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2022-01-09 18:28:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2024-01-13 04:09:54.000000 UTC",
+  "sold_at": "2024-01-23 19:51:54.000000 UTC"
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2025-10-28 03:31:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2023-02-10 06:11:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2022-01-19 23:50:25.000000 UTC",
+  "sold_at": "2022-03-17 09:36:25.000000 UTC"
+}, {
+  "product_id": "28714",
+  "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "6.25",
+  "product_id_1": "28714",
+  "created_at": "2022-10-04 17:30:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2024-09-23 06:07:45.000000 UTC",
+  "sold_at": "2024-09-25 04:54:45.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2025-08-26 10:56:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2022-10-17 06:55:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2025-06-29 03:49:51.000000 UTC",
+  "sold_at": "2025-08-18 00:21:51.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2021-12-10 07:29:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2020-01-21 07:26:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2023-09-26 03:35:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2024-12-29 17:37:51.000000 UTC",
+  "sold_at": "2025-01-06 02:49:51.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2020-11-06 06:51:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2020-04-27 18:09:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2025-12-18 07:01:18.000000 UTC",
+  "sold_at": "2026-01-21 22:18:18.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2021-01-09 12:00:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2022-12-18 04:12:41.000000 UTC",
+  "sold_at": "2023-01-14 14:20:41.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2025-01-04 11:15:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2021-11-16 14:11:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2021-04-04 05:22:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2023-05-12 06:24:40.000000 UTC",
+  "sold_at": "2023-07-09 23:56:40.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2022-08-12 17:59:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2025-12-14 09:30:59.705843 UTC",
+  "sold_at": "2026-01-30 00:33:59.705843 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2022-08-21 17:07:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2022-07-18 03:12:50.000000 UTC",
+  "sold_at": "2022-09-03 02:17:50.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2024-03-22 11:10:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2025-09-13 22:10:29.000000 UTC",
+  "sold_at": "2025-09-30 04:34:29.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2025-05-09 12:27:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2023-11-04 14:10:56.000000 UTC",
+  "sold_at": "2023-11-20 01:18:56.000000 UTC"
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2026-01-24 17:10:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2023-02-06 08:57:00.000000 UTC",
+  "sold_at": null
+}, {
+  "product_id": "28779",
+  "name": "Fishing Hat (01)-Khaki W10S32F",
+  "category": "Accessories",
+  "department": "Men",
+  "retail_price": "20.989999771118164",
+  "product_id_1": "28779",
+  "created_at": "2022-08-09 05:23:00.000000 UTC",
+  "sold_at": null
 }]

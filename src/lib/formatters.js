@@ -7,10 +7,6 @@ export function normalizeText(text) {
   return text.toLowerCase().trim();
 }
 
-export function normalizeText(text) {
-  return text.toLowerCase().trim();
-}
-
 export function extractBudget(text) {
   const match = text.match(/\$(\d+)/);
   return match ? Number(match[1]) : null;

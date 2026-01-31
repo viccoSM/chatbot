@@ -1,95 +1,144 @@
 import products from "../data/products.json";
-import inventory from "../data/inventory.json";
-import { normalizeText } from "./formatters";
+import {
+  normalizeText,
+  extractBudget,
+  extractKeywords
+} from "./formatters";
 
-export function handleUserMessage(message) {
+export function handleUserMessage(message, context = {}) {
   const text = normalizeText(message);
+  const budget = extractBudget(text);
+  const keywords = extractKeywords(text);
 
-  // 1️⃣ Vague product search
-  if (text.includes("gift") && text.includes("girlfriend")) {
-    const suggestions = products.filter(
-      (p) => p.department === "Women"
+  let results = [];
+
+  if (text.includes("gift")) {
+    results = products.filter((p) =>
+      p.department?.toLowerCase().includes("women")
     );
 
-    if (suggestions.length === 0) {
-      return {
-        text: "Sorry, I couldn't find any gift ideas right now 😔"
-      };
+    if (budget) {
+      results = results.filter((p) => p.price <= budget);
     }
 
     return {
-      text: "Looking for a gift can be tricky 💕 Here are some popular options:",
-      products: suggestions.slice(0, 6),
+      text:
+        "That’s sweet 💕 Here are some gift ideas that are popular:",
+      products: results.slice(0, 6),
       quickReplies: ["Under $50", "Under $100"]
     };
   }
 
-  // 2️⃣ Budget filter — Under $50
-  if (text.includes("under $50")) {
-    const filtered = products.filter((p) => p.price <= 50);
 
-    if (filtered.length === 0) {
+  if (
+    text.includes("difference") ||
+    text.includes("compare")
+  ) {
+    const last = context.lastProducts || [];
+
+    if (last.length < 2) {
       return {
-        text: "I couldn't find any products under $50. Would you like to try a higher budget?"
+        text:
+          "Please show me at least two products first so I can compare them."
+      };
+    }
+
+    const [a, b] = last;
+
+    return {
+      text: `Here’s a quick comparison 👇`,
+      comparison: {
+        left: {
+          name: a.name,
+          price: `$${a.price}`,
+          category: a.category
+        },
+        right: {
+          name: b.name,
+          price: `$${b.price}`,
+          category: b.category
+        }
+      }
+    };
+  }
+
+  if (
+    text.includes("size") ||
+    text.includes("medium") ||
+    text.includes("available")
+  ) {
+    const last = context.lastProducts || [];
+
+    if (last.length === 0) {
+      return {
+        text:
+          "Which product are you referring to? Please select a product first."
+      };
+    }
+
+    const product = last[0];
+    const size = text.includes("medium") ? "M" : null;
+
+    const stock = products.find(
+      (i) =>
+        i.product_id === product.id &&
+        (!size || i.size === size)
+    );
+
+    if (!stock || stock.stock === 0) {
+      return {
+        text: `Sorry 😕 ${product.name} is currently out of stock in that size.`
       };
     }
 
     return {
-      text: "Here are some great options under $50:",
-      products: filtered
+      text: `Yes! ${product.name} is available in ${stock.size}. 🎉`
     };
   }
 
-  // 3️⃣ Budget filter — Under $100
-  if (text.includes("under $100")) {
-    const filtered = products.filter((p) => p.price <= 100);
+  if (
+    text.includes("discount") ||
+    text.includes("promo") ||
+    text.includes("checkout")
+  ) {
+    return {
+      text:
+        "To apply a discount code:\n\n1️⃣ Add items to your cart\n2️⃣ Go to checkout\n3️⃣ Enter your code in the promo field\n4️⃣ Apply and review the updated total\n\nLet me know if you need help finding a code!"
+    };
+  }
 
-    if (filtered.length === 0) {
+   const isDiscovery =
+    keywords.length > 0 || budget !== null;
+
+  if (isDiscovery) {
+    results = products.filter((p) => {
+      const matchesBudget = budget
+        ? p.price <= budget
+        : true;
+
+      const matchesKeyword = keywords.some((k) =>
+        p.name.toLowerCase().includes(k) ||
+        p.category?.toLowerCase().includes(k)
+      );
+
+      return matchesBudget && matchesKeyword;
+    });
+
+    if (results.length === 0) {
       return {
-        text: "I couldn't find any products under $100. Want to explore other options?"
+        text:
+          "I couldn’t find anything matching that. Want to try a different budget or keyword?"
       };
     }
 
     return {
-      text: "Here are some great options under $100:",
-      products: filtered
+      text: "Here’s what I found for you:",
+      products: results.slice(0, 6)
     };
   }
 
-  // 4️⃣ Inventory / size awareness
-  if (text.includes("size")) {
-    const availableInventory = inventory.filter(
-      (i) => i.stock > 0
-    );
-
-    if (availableInventory.length === 0) {
-      return {
-        text: "Unfortunately, all sizes are currently out of stock 😕"
-      };
-    }
-
-    const availableProductIds = availableInventory.map(
-      (i) => i.product_id
-    );
-
-    const availableProducts = products.filter((p) =>
-      availableProductIds.includes(p.id)
-    );
-
-    if (availableProducts.length === 0) {
-      return {
-        text: "That product is currently unavailable in the requested size."
-      };
-    }
-
-    return {
-      text: "Good news! These products have available sizes:",
-      products: availableProducts
-    };
-  }
-
-  // 5️⃣ Fallback / unknown intent
   return {
-    text: "I'm not sure I understood that 🤔 You can try asking for a gift, budget, or available sizes."
+    text:
+      "I can help you find products, compare items, check availability, or guide you through checkout. 😊"
   };
 }
